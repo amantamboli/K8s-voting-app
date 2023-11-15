@@ -238,4 +238,6 @@ Query the MongoDB database directly to observe the updated vote data. In the ter
 kubectl exec -it mongo-0 -- mongo langdb --eval "db.languages.find().pretty()"
 ```
 
-## **Done**
+## Author
+
+- [@amantamboli](https://amantamboli.github.io/portfolio/)
